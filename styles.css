@@ -43,3 +43,18 @@ footer {
 .message{
   margin: 10px;
 }
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+}
+.roll{
+  background-color:#E8AA42;
+  margin: 3rem;
+  padding: 1rem;
+  width: 200PX;
+  border-radius: 6px;
+  font-size: 24px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
